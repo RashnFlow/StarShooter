@@ -13,7 +13,7 @@ public class StarShooter extends ApplicationAdapter {
 	@Override
 	public void create () {
 		batch = new SpriteBatch();
-		img = new Texture("fon_hw.jpg");
+		img = new Texture("fon.jpg");
 
 	}
 
